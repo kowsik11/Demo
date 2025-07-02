@@ -1,0 +1,136 @@
+---- Applied Jobs Data ---- created at: 2025-07-02 10:41
+---- Number | Job | Company | Location | Result
+1 | Frontend Web Developer II |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4258749499
+2 | Salon Experience Lead |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4259240755
+3 | Pasantía UX/UI & Product Designer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260437386
+4 | Cardiac Care Registered Nurse |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260462377
+5 | Sr. Test Automation Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260420079
+6 | Scribe/Medical Assistant |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260424781
+7 | Administrative Assistant |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260456249
+8 | Ingeniero Full Stack |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4256950241
+9 | Roku Developer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4258781840
+1 | Front End Engineer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256910131
+1 | Python Web App Developer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4252694740
+2 | Scribe/Medical Assistant |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260424781
+3 | Sr. Test Automation Engineer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260420079
+4 | Frontend Web Developer II |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258749499
+5 | Full Stack Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260265542
+6 | Salon Experience Lead |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259240755
+7 | Front End Engineer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256910131
+8 | Roku Developer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258781840
+9 | Ingeniero Full Stack |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256950241
+1 | Salon Experience Lead |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259240755
+2 | Software Dev Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4259100066
+1 | Salon Experience Lead |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259240755
+2 | Scribe/Medical Assistant |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260424781
+3 | Frontend Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4256947301
+1 | Entry Level Software Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4258759339
+2 | Adult Mental Health Targeted Case Manager Duluth |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4259138655
+3 | Orthopedic Medical Office Coordinator |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4258788102
+4 | Registered Nurse (RN) - Med/Surg 1st Acute - FT |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260401358
+5 | Salon Experience Lead |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259240755
+1 | Back End Engineer ( Equity ONLY) |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260267972
+2 | Frontend Engineer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256947301
+3 | Ingeniero Full Stack |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256950241
+4 | Full Stack Engineer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4259159600
+5 | Salon Experience Lead |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259240755
+6 | Cardiac Care Registered Nurse |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260462377
+7 | Full Stack Engineer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260265542
+8 | Full Stack Software Developer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4208984444
+9 | Adult Mental Health Targeted Case Manager Duluth |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259138655
+10 | Scribe/Medical Assistant |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260424781
+11 | Full Stack Developer |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260588547
+12 | Entry Level Software Engineer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258759339
+13 | Roku Developer |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258781840
+14 | Full-Stack Engineer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4258392795
+1 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256741754
+2 | Data Analyst |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4258789977
+3 | Business Support Analyst- 6 Months |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4258637056
+4 | AI/ML Engineer |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256727801
+5 | Application Scientist - Computational Biology/Bioinformatics |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4258638995
+1 | Business Support Analyst- 6 Months |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4258637056
+2 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+3 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256741754
+1 | Data Annotator II |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4259165586
+1 | Data Annotator II |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4259165586
+2 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4256741754
+1 | Data Annotator II |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4259165586
+1 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+2 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4256741754
+3 | Product Analyst |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4259171389
+1 | Product Analyst |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4259171389
+2 |  |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+1 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+2 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+3 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+4 | Python Developer — Full-Time | 1-2 years Exp | In-Office | Bangalore |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4257156470
+1 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4257168277
+1 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+2 | Remote Data Scientist - 17843 |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260836128
+3 | Remote Data Scientist - 17843 |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260830871
+1 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+2 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260832544
+3 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257168277
+4 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+5 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260830871
+6 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260837021
+7 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260829928
+8 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260833464
+9 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260836128
+10 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+11 | Application Scientist - Computational Biology/Bioinformatics |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4258638995
+12 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+13 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260832544
+14 | Python Developer — Full-Time | 1-2 years Exp | In-Office | Bangalore |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257156470
+15 | Software Engineer (Data) |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4259132427
+16 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260830871
+17 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260837021
+18 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260829928
+19 | Ardupilot Developer |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4256667138
+20 | Software Engineer |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260808032
+21 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260836128
+22 | GATE DA Instructor – Data Structures and Algorithms |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4258611521
+23 | AI/ML Engineer |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4256727801
+24 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260833464
+25 | QA-Freshers |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257173181
+26 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+1 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260832544
+2 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260829928
+3 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257168277
+4 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+5 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+6 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260833464
+7 |  |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260837021
+1 | Remote Data Science Analyst - 17843 |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260829928
+1 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260832544
+2 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260836128
+3 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260837021
+4 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+5 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+6 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257168277
+7 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260829928
+8 |  |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+1 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260832544
+2 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260836128
+3 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260837021
+4 | Data Analyst |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257175044
+5 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+6 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+7 | Remote Data Scientist - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260830871
+8 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4257168277
+9 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+10 | Remote Data Science Analyst - 17843 |  |  | 🥵 Cannot click Easy-Apply | https://www.linkedin.com/jobs/view/4260833464
+11 |  |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260829928
+1 | Remote Data Scientist - 17843 |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260832544
+2 | Remote Data Scientist - 17843 |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260836128
+3 |  |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4260833464
+1 | Remote Data Science Analyst - 17843 |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260833464
+2 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+3 | Data Analyst - ADTech Exp / IIT / NIT - Bengaluru based candidate only -1+year experienced |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4257168277
+1 | Data Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4258789977
+2 | Trainee Internet Research |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4260844458
+3 | CAT Modelling Analyst - RMS RiskLink |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4256741754
+4 | Data Analyst |  |  | 🥳 Applied | https://www.linkedin.com/jobs/view/4257175044
+5 | Remote Data Scientist - 17843 |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260836128
+6 | Product Analyst |  |  | 🥳 Already applied | https://www.linkedin.com/jobs/view/4259171389
+7 | Remote Data Science Analyst - 17843 |  |  | 🥵 Stopped – extra Qs | https://www.linkedin.com/jobs/view/4260837021
